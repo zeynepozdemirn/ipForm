@@ -56,7 +56,7 @@ namespace ipForm
         private void timer1_Tick(object sender, EventArgs e)
         {
             
-            if (label1.ForeColor == Color.Blue)
+            if (label1.ForeColor == Color.Pink)
             {
                 label1.ForeColor = Color.Black;
             }
