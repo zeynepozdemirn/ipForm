@@ -1,0 +1,10 @@
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.csproj.AssemblyReference.cache
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.Properties.Resources.resources
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.csproj.GenerateResource.cache
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\source\repos\ipForm\ipForm\bin\Debug\ipForm.exe.config
+C:\Users\Zeynep\source\repos\ipForm\ipForm\bin\Debug\ipForm.exe
+C:\Users\Zeynep\source\repos\ipForm\ipForm\bin\Debug\ipForm.pdb
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.exe
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.pdb
+C:\Users\Zeynep\source\repos\ipForm\ipForm\obj\Debug\ipForm.Form1.resources
